@@ -582,10 +582,3 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - Powered by [Anthropic Claude](https://www.anthropic.com/), [OpenAI](https://openai.com/), and [Google Gemini](https://deepmind.google/technologies/gemini/)
 - Vector search with [pgvector](https://github.com/pgvector/pgvector)
 
-## 📞 Support
-
-- 📧 Email: saif.rehman2498@gmail.com
-
----
-
-**Made with ❤️ by the SkillFit AI Team**
